@@ -1,5 +1,7 @@
 {
   "files.associations": {
     "plyconfig.json": "jsonc"
-  }
+  },
+  "emmet.syntaxProfiles": {},
+  "editor.defaultFormatter": "vscode.emmet"
 }
